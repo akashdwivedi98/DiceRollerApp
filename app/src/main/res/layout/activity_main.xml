@@ -17,8 +17,8 @@
         android:onClick="onButtonClicked"
         android:padding="50dp"
         android:text="@string/roll_dice"
-        android:textSize="30sp"
-        app:iconPadding="50dp"
+        android:textSize="32sp"
+        app:iconPadding="45dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
